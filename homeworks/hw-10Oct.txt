@@ -1,0 +1,12 @@
+1. Write a program that takes an integer input from the user and checks if it is positive, negative, or zero. Display a message indicating the result.
+2. Create a program that takes an integer and checks if it is divisible by both 2 and 3. Print "Divisible by both" if true, "Divisible by only 2" if divisible by 2 but not 3, "Divisible by only 3" if divisible by 3 but not 2, and "Not divisible by either" otherwise.
+3. Write a program that prompts the user to enter two numbers and an operator (+, -, *, /). Use a switch statement to perform the chosen operation and display the result (store the result in a variable using Java 14+ Switch statement).
+4. Create a program that takes an integer input (1-7) representing a day of the week and uses a switch statement to print the name of the day (e.g., 1 = "Monday", 2 = "Tuesday", etc.). Please use Java 14+ Switch statement).
+5. Write a program that takes a single letter as input and uses a switch statement to determine if it’s a vowel (a, e, i, o, u) or a consonant. If it’s not a letter, display "Invalid input."
+6. Use a while loop and print the first "n" integers.
+7. Write a program that asks the user for a positive integer and uses a while loop to find the factorial of that number. Display the result.
+8. Create a program that keeps asking the user for integers until the user enters a negative number. Calculate and print the sum of all positive numbers entered.
+9. Write a program that takes an integer n and uses a for loop to print the first n even numbers.
+10. Initialize an array of integers with 10 random values. Use a for loop to find and print the smallest and largest elements in the array.
+11. Create a program that takes a list of 5 names from the user and stores them in a String array. Use a for loop to display each name in reverse order.
+12. Initialize an array of double numbers representing prices. Using a while loop, sum all the prices until a price greater than 100 is encountered, then stop and display the sum up to that point.
