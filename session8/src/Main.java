@@ -1,3 +1,5 @@
+import mypackage.Student;
+
 import java.util.Scanner;
 
 public class Main {
@@ -27,5 +29,8 @@ public class Main {
             number = number / 10;
         }
         System.out.print(" reverse is = " + reverse);
+
+        // We can use classes across multiple modules
+        Student student = new Student();
     }
 }
