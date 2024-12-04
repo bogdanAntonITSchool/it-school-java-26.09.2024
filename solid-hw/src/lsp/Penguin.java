@@ -16,9 +16,4 @@ public class Penguin extends Bird {
         System.out.println("Penguin is sleeping");
     }
 
-    @Override
-    public void fly() {
-        throw new UnsupportedOperationException("Penguins can't fly");
-    }
-
 }

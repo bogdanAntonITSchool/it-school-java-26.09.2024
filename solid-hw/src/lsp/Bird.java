@@ -12,6 +12,4 @@ public abstract class Bird {
 
     public abstract void sleep();
 
-    public abstract void fly();
-
 }
