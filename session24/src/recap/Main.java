@@ -31,6 +31,8 @@ public class Main {
         LambdaInterface lambdaInterface = System.out::println;
 
         lambdaInterface.someMethod("Hello, World!");
+
+
     }
 }
 
