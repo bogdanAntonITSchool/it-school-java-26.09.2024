@@ -55,7 +55,6 @@ public class Main {
 
         Supplier<Book> bookSupplierNew = Book::new;
         Book book1 = bookSupplierNew.get();
-
     }
 
     public static void consumeString(String s) {
